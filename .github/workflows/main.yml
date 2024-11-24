@@ -1,4 +1,4 @@
-            - name: Deploy Environment
+name: Deploy Environment
   # You may pin to the exact commit or the version.
   # uses: parasoft/deploy-environment-action@486e9382c6c2958fcbaad60b895da799d16730c2
   uses: parasoft/deploy-environment-action@1.0.2
